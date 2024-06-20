@@ -3,7 +3,7 @@
   padding: 0;
   margin: 0;
   font-family: Georgia;
-  background-color:rgb(245, 245, 241);
+  background-color:rgb(247, 248, 238);
 }
 
 ul {
@@ -61,6 +61,12 @@ a:hover {
 .post img {
   width: 100%;
   margin-bottom: 1rem;
+}
+
+img {
+  border: 1px solid rgba(206, 205, 205, 0.116);
+  box-shadow: 2px 3px 3px ;
+  border-radius: 4px;
 }
 
 .title,
